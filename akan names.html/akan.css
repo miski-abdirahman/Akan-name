@@ -1,0 +1,39 @@
+h1{
+  color: blue;
+  font-style: normal;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+.intro{
+  font-style: normal;
+  font-family: sans-serif;
+  text-align: left;
+  color: black;
+  font-size: 18px;
+}
+body{
+  backround :blue
+  font-size: 18px
+  text-align: left;
+  font-style: normal;
+  font-weight: normal;
+  }
+  form{
+    width: 50%
+    border:2px black;
+    text-align: left;
+    font-family: sans-serif;
+  }
+  label{
+    font-size: 18;
+    color:black;
+    font-family: sans-serif;
+  }
+  input{
+    font-family: sans-serif;
+    font-size: 16;
+    color:blue;
+
+
+  }
